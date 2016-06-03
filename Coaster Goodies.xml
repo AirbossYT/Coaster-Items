@@ -8,8 +8,8 @@
       <Type>deco</Type>
       <inGameName>Drive Tire</inGameName>
       <price>5</price>
-      <grid>true</grid>
-      <snapCenter>true</snapCenter>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
       <category>Coaster Goodies</category>
       <heightDelta>0.1</heightDelta>
       <gridSubdivision>2</gridSubdivision>
