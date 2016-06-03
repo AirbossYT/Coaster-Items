@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Coaster Goodies</ModName>
+  <ModDiscription>Goodies for Coasters!</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Coaster Goodies@Support</OBJName>
+      <Type>deco</Type>
+      <inGameName>Footer #1</inGameName>
+      <price>10</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Coaster Goodies</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@Tire</OBJName>
+      <Type>deco</Type>
+      <inGameName>Drive Tire</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Coaster Goodies</category>
+      <heightDelta>0.1</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+  </Objects>
+</Mod>
