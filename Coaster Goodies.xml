@@ -8,8 +8,8 @@
       <Type>deco</Type>
       <inGameName>Drive Tire</inGameName>
       <price>5</price>
-      <grid>false</grid>
-      <snapCenter>false</snapCenter>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
       <category>Coaster Goodies</category>
       <heightDelta>0.1</heightDelta>
       <gridSubdivision>2</gridSubdivision>
@@ -44,12 +44,33 @@
     </Object>
     <Object>
       <OBJName>Coaster Goodies@brake (2)</OBJName>
+      <Type>none</Type>
+      <inGameName>brake (2)</inGameName>
+      <price>0</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@LIMs</OBJName>
       <Type>deco</Type>
-      <inGameName>Brake Straight</inGameName>
+      <inGameName>LIM</inGameName>
       <price>2</price>
       <grid>true</grid>
       <snapCenter>true</snapCenter>
-      <category>Coaster Goodies/Brakes</category>
+      <category />
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@Diaglim</OBJName>
+      <Type>deco</Type>
+      <inGameName>Diagonal LIM</inGameName>
+      <price>2</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Coaster Goodies</category>
       <heightDelta>0.125</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>false</recolorable>
