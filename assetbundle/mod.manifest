@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1230001335
+CRC: 2437726679
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a0243b0a7f43e880986dec5054e0884c
+    Hash: 6c9b9dfd86ce2820ef751ddb7a7d5ad8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 18f88a6a41a39d45481574f548d1d50a
@@ -28,10 +28,10 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 Assets:
-- Assets/Mods/Coaster Goodies/Coaster Goodies@BrakeDiag.prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@Rusted_Tire.prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@Diaglim.prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@Support.prefab
 - Assets/Mods/Coaster Goodies/Coaster Goodies@LIMs.prefab
 - Assets/Mods/Coaster Goodies/Coaster Goodies@brake (2).prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@Rusted_Tire.prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@Diaglim.prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@BrakeDiag.prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@Support.prefab
 Dependencies: []
