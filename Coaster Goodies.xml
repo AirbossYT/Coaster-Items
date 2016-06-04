@@ -44,16 +44,11 @@
     </Object>
     <Object>
       <OBJName>Coaster Goodies@brake (2)</OBJName>
-      <Type>deco</Type>
-      <inGameName>Flat Brake</inGameName>
-      <price>2</price>
-      <grid>true</grid>
-      <snapCenter>true</snapCenter>
-      <category>Coaster Goodies</category>
-      <heightDelta>0.125</heightDelta>
-      <gridSubdivision>1</gridSubdivision>
+      <Type>none</Type>
+      <inGameName>brake (2)</inGameName>
+      <price>0</price>
       <recolorable>false</recolorable>
-      <shader>None</shader>
+      <shader>Diffuse</shader>
     </Object>
     <Object>
       <OBJName>Coaster Goodies@LIMs</OBJName>
@@ -62,11 +57,11 @@
       <price>2</price>
       <grid>true</grid>
       <snapCenter>true</snapCenter>
-      <category></category>
+      <category>Coaster Goodies</category>
       <heightDelta>0.125</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>false</recolorable>
-      <shader>Diffuse</shader>
+      <shader>None</shader>
     </Object>
     <Object>
       <OBJName>Coaster Goodies@Diaglim</OBJName>
