@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 992531876
+CRC: 1966148263
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fac4ef18ba181534e710b822d9d7956c
+    Hash: 31587aa1167d7fea88da7ede54fa7084
   TypeTreeHash:
     serializedVersion: 2
     Hash: 18f88a6a41a39d45481574f548d1d50a
@@ -29,6 +29,7 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Mods/Coaster Goodies/Coaster Goodies@brake (2).prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@Parkitect_Flag.prefab
 - Assets/Mods/Coaster Goodies/Coaster Goodies@Brake225.prefab
 - Assets/Mods/Coaster Goodies/Coaster Goodies@Brake 1125.prefab
 - Assets/Mods/Coaster Goodies/Coaster Goodies@LIM 225.prefab

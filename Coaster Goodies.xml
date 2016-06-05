@@ -146,5 +146,18 @@
       <recolorable>false</recolorable>
       <shader>None</shader>
     </Object>
+    <Object>
+      <OBJName>Coaster Goodies@Parkitect_Flag</OBJName>
+      <Type>deco</Type>
+      <inGameName>Parkitect Flag</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Coaster Goodies</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
   </Objects>
 </Mod>
