@@ -36,7 +36,7 @@
       <price>2</price>
       <grid>true</grid>
       <snapCenter>true</snapCenter>
-      <category>Coaster Goodies</category>
+      <category>Coaster Goodies/Brakes</category>
       <heightDelta>0.125</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>false</recolorable>
@@ -49,7 +49,7 @@
       <price>2</price>
       <grid>true</grid>
       <snapCenter>true</snapCenter>
-      <category>Coaster Goodies</category>
+      <category>Coaster Goodies/Brakes</category>
       <heightDelta>0.125</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>false</recolorable>
@@ -62,7 +62,7 @@
       <price>2</price>
       <grid>true</grid>
       <snapCenter>true</snapCenter>
-      <category>Coaster Goodies</category>
+      <category>Coaster Goodies/LIMs</category>
       <heightDelta>0.125</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>false</recolorable>
@@ -75,7 +75,7 @@
       <price>2</price>
       <grid>true</grid>
       <snapCenter>true</snapCenter>
-      <category>Coaster Goodies</category>
+      <category>Coaster Goodies/LIMs</category>
       <heightDelta>0.125</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>false</recolorable>
@@ -91,6 +91,58 @@
       <category>Coaster Goodies</category>
       <heightDelta>0.1</heightDelta>
       <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@Brake 1125</OBJName>
+      <Type>deco</Type>
+      <inGameName>Brake 1/4 Slope</inGameName>
+      <price>2</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Coaster Goodies/Brakes</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@Brake225</OBJName>
+      <Type>deco</Type>
+      <inGameName>Brake 1/2 Slope</inGameName>
+      <price>2</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Coaster Goodies/Brakes</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@LIM 225</OBJName>
+      <Type>deco</Type>
+      <inGameName>LIM 1/2 Slope</inGameName>
+      <price>2</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Coaster Goodies/LIMs</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@LIM 1125</OBJName>
+      <Type>deco</Type>
+      <inGameName>LIM 1/4 Slope</inGameName>
+      <price>2</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Coaster Goodies/LIMs</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
       <recolorable>false</recolorable>
       <shader>None</shader>
     </Object>
