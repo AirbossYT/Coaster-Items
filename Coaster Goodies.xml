@@ -82,19 +82,6 @@
       <shader>None</shader>
     </Object>
     <Object>
-      <OBJName>Coaster Goodies@CP</OBJName>
-      <Type>deco</Type>
-      <inGameName>Control Panel</inGameName>
-      <price>10</price>
-      <grid>false</grid>
-      <snapCenter>false</snapCenter>
-      <category>Coaster Goodies</category>
-      <heightDelta>0.1</heightDelta>
-      <gridSubdivision>2</gridSubdivision>
-      <recolorable>false</recolorable>
-      <shader>None</shader>
-    </Object>
-    <Object>
       <OBJName>Coaster Goodies@Brake 1125</OBJName>
       <Type>deco</Type>
       <inGameName>Brake 1/4 Slope</inGameName>
@@ -147,7 +134,7 @@
       <shader>None</shader>
     </Object>
     <Object>
-      <OBJName>Coaster Goodies@Parkitect_Flag</OBJName>
+      <OBJName>Coaster Goodies@Parkitect_Flag (1)</OBJName>
       <Type>deco</Type>
       <inGameName>Parkitect Flag</inGameName>
       <price>5</price>
@@ -155,9 +142,56 @@
       <snapCenter>false</snapCenter>
       <category>Coaster Goodies</category>
       <heightDelta>0.125</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@CP</OBJName>
+      <Type>deco</Type>
+      <inGameName>Control Panel</inGameName>
+      <price>2</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Coaster Goodies</category>
+      <heightDelta>0.125</heightDelta>
       <gridSubdivision>1</gridSubdivision>
       <recolorable>false</recolorable>
       <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@Platformm</OBJName>
+      <Type>deco</Type>
+      <inGameName>Platform Middle</inGameName>
+      <price>2</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Coaster Goodies</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>BEE6FD</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@Platform 1</OBJName>
+      <Type>deco</Type>
+      <inGameName>Platform End</inGameName>
+      <price>2</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Coaster Goodies</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>C2C2C2</Color1>
+      <Color2>000409</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
     </Object>
   </Objects>
 </Mod>
