@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4172323197
+CRC: 2679351815
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 06c9f122771d2d2b2925d94ecdaf9bbd
+    Hash: c07ec724926b8f08c200a09eda02f74b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 18f88a6a41a39d45481574f548d1d50a
@@ -29,17 +29,18 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Mods/Coaster Goodies/Coaster Goodies@Brake225.prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@Brake 1125.prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@LIM 225.prefab
 - Assets/Mods/Coaster Goodies/Coaster Goodies@Platformm.prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@Parkitect_Flag (1).prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@Diaglim.prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@Flag.prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@Support.prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@Brake 1125.prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@BrakeDiag.prefab
 - Assets/Mods/Coaster Goodies/Coaster Goodies@LIM 1125.prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@brake (2).prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@Rusted_Tire (1).prefab
 - Assets/Mods/Coaster Goodies/Coaster Goodies@Rusted_Tire.prefab
 - Assets/Mods/Coaster Goodies/Coaster Goodies@CP.prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@BrakeDiag.prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@LIM 225.prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@Diaglim.prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@Support.prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@brake (2).prefab
-- Assets/Mods/Coaster Goodies/Coaster Goodies@LIMs.prefab
 - Assets/Mods/Coaster Goodies/Coaster Goodies@Platform 1.prefab
+- Assets/Mods/Coaster Goodies/Coaster Goodies@LIMs.prefab
 Dependencies: []

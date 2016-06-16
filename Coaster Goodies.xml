@@ -6,7 +6,7 @@
     <Object>
       <OBJName>Coaster Goodies@Rusted_Tire</OBJName>
       <Type>deco</Type>
-      <inGameName>Drive Tire</inGameName>
+      <inGameName>Horizontal Tire</inGameName>
       <price>5</price>
       <grid>false</grid>
       <snapCenter>false</snapCenter>
@@ -134,19 +134,6 @@
       <shader>None</shader>
     </Object>
     <Object>
-      <OBJName>Coaster Goodies@Parkitect_Flag (1)</OBJName>
-      <Type>deco</Type>
-      <inGameName>Parkitect Flag</inGameName>
-      <price>5</price>
-      <grid>false</grid>
-      <snapCenter>false</snapCenter>
-      <category>Coaster Goodies</category>
-      <heightDelta>0.125</heightDelta>
-      <gridSubdivision>2</gridSubdivision>
-      <recolorable>false</recolorable>
-      <shader>None</shader>
-    </Object>
-    <Object>
       <OBJName>Coaster Goodies@CP</OBJName>
       <Type>deco</Type>
       <inGameName>Control Panel</inGameName>
@@ -192,6 +179,32 @@
       <Color2>000409</Color2>
       <Color3>1C0FFF</Color3>
       <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@Flag</OBJName>
+      <Type>deco</Type>
+      <inGameName>Parkitect Flag</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Coaster Goodies</category>
+      <heightDelta>0.1</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Coaster Goodies@Rusted_Tire (1)</OBJName>
+      <Type>deco</Type>
+      <inGameName>Vertical Tire</inGameName>
+      <price>2</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Coaster Goodies</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
     </Object>
   </Objects>
 </Mod>
